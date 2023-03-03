@@ -1,6 +1,6 @@
 # Deep-Learning
 
-Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville
+## 도서 명 : Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
 - a = 스칼라(정수 or 실수)
 - **a** = 벡터
